@@ -21,16 +21,8 @@
 		86386D08171527E70041E581 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 86386D07171527E70041E581 /* AVFoundation.framework */; };
 		86386D12171531E80041E581 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 86386D11171531E80041E581 /* AudioToolbox.framework */; };
 		869670BA171685A2006161BE /* 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670AF171685A2006161BE /* 1.mp4 */; };
-		869670BB171685A2006161BE /* 10.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B0171685A2006161BE /* 10.mp4 */; };
-		869670BC171685A2006161BE /* 11.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B1171685A2006161BE /* 11.mp4 */; };
 		869670BD171685A2006161BE /* 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B2171685A2006161BE /* 2.mp4 */; };
 		869670BE171685A2006161BE /* 3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B3171685A2006161BE /* 3.mp4 */; };
-		869670BF171685A2006161BE /* 4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B4171685A2006161BE /* 4.mp4 */; };
-		869670C0171685A2006161BE /* 5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B5171685A2006161BE /* 5.mp4 */; };
-		869670C1171685A2006161BE /* 6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B6171685A2006161BE /* 6.mp4 */; };
-		869670C2171685A2006161BE /* 7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B7171685A2006161BE /* 7.mp4 */; };
-		869670C3171685A2006161BE /* 8.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B8171685A2006161BE /* 8.mp4 */; };
-		869670C4171685A2006161BE /* 9.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 869670B9171685A2006161BE /* 9.mp4 */; };
 		869F85661717FE8300985B68 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 869F85651717FE8300985B68 /* README.md */; };
 		869F856C17181D7E00985B68 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 869F856B17181D7E00985B68 /* MediaPlayer.framework */; };
 		869F8571171821DF00985B68 /* cover2.png in Resources */ = {isa = PBXBuildFile; fileRef = 869F856F171821DF00985B68 /* cover2.png */; };
@@ -66,16 +58,8 @@
 		86386D07171527E70041E581 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		86386D11171531E80041E581 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		869670AF171685A2006161BE /* 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.mp4; sourceTree = "<group>"; };
-		869670B0171685A2006161BE /* 10.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 10.mp4; sourceTree = "<group>"; };
-		869670B1171685A2006161BE /* 11.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 11.mp4; sourceTree = "<group>"; };
 		869670B2171685A2006161BE /* 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.mp4; sourceTree = "<group>"; };
 		869670B3171685A2006161BE /* 3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.mp4; sourceTree = "<group>"; };
-		869670B4171685A2006161BE /* 4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 4.mp4; sourceTree = "<group>"; };
-		869670B5171685A2006161BE /* 5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 5.mp4; sourceTree = "<group>"; };
-		869670B6171685A2006161BE /* 6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 6.mp4; sourceTree = "<group>"; };
-		869670B7171685A2006161BE /* 7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 7.mp4; sourceTree = "<group>"; };
-		869670B8171685A2006161BE /* 8.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 8.mp4; sourceTree = "<group>"; };
-		869670B9171685A2006161BE /* 9.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 9.mp4; sourceTree = "<group>"; };
 		869F85651717FE8300985B68 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		869F856B17181D7E00985B68 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		869F856F171821DF00985B68 /* cover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover2.png; sourceTree = "<group>"; };
@@ -181,16 +165,8 @@
 			isa = PBXGroup;
 			children = (
 				869670AF171685A2006161BE /* 1.mp4 */,
-				869670B0171685A2006161BE /* 10.mp4 */,
-				869670B1171685A2006161BE /* 11.mp4 */,
 				869670B2171685A2006161BE /* 2.mp4 */,
 				869670B3171685A2006161BE /* 3.mp4 */,
-				869670B4171685A2006161BE /* 4.mp4 */,
-				869670B5171685A2006161BE /* 5.mp4 */,
-				869670B6171685A2006161BE /* 6.mp4 */,
-				869670B7171685A2006161BE /* 7.mp4 */,
-				869670B8171685A2006161BE /* 8.mp4 */,
-				869670B9171685A2006161BE /* 9.mp4 */,
 			);
 			path = video;
 			sourceTree = "<group>";
@@ -242,12 +218,18 @@
 				CLASSPREFIX = darkwingdev;
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = finalevil;
+				TargetAttributes = {
+					86386CDF171527D90041E581 = {
+						DevelopmentTeam = DHK4829982;
+					};
+				};
 			};
 			buildConfigurationList = 86386CDA171527D90041E581 /* Build configuration list for PBXProject "testplayer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 86386CD5171527D90041E581;
@@ -279,16 +261,8 @@
 				86FBD73417157A2B00D987FE /* navbar-button.png in Resources */,
 				86FBD73517157A2B00D987FE /* navbar-button@2x.png in Resources */,
 				869670BA171685A2006161BE /* 1.mp4 in Resources */,
-				869670BB171685A2006161BE /* 10.mp4 in Resources */,
-				869670BC171685A2006161BE /* 11.mp4 in Resources */,
 				869670BD171685A2006161BE /* 2.mp4 in Resources */,
 				869670BE171685A2006161BE /* 3.mp4 in Resources */,
-				869670BF171685A2006161BE /* 4.mp4 in Resources */,
-				869670C0171685A2006161BE /* 5.mp4 in Resources */,
-				869670C1171685A2006161BE /* 6.mp4 in Resources */,
-				869670C2171685A2006161BE /* 7.mp4 in Resources */,
-				869670C3171685A2006161BE /* 8.mp4 in Resources */,
-				869670C4171685A2006161BE /* 9.mp4 in Resources */,
 				869F85661717FE8300985B68 /* README.md in Resources */,
 				869F8571171821DF00985B68 /* cover2.png in Resources */,
 				869F8572171821DF00985B68 /* cover1.png in Resources */,
@@ -352,7 +326,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -373,7 +347,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -383,10 +357,11 @@
 		86386D05171527D90041E581 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = DHK4829982;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testplayer/testplayer-Prefix.pch";
 				INFOPLIST_FILE = "testplayer/testplayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -395,10 +370,11 @@
 		86386D06171527D90041E581 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = DHK4829982;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testplayer/testplayer-Prefix.pch";
 				INFOPLIST_FILE = "testplayer/testplayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

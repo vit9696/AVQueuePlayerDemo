@@ -7,7 +7,7 @@
 //
 
 #import "darkwingdevViewController.h"
-#define VIDEO_NUM 11
+#define VIDEO_NUM 3
 
 @interface darkwingdevViewController ()
 
@@ -232,8 +232,8 @@
     float timeDuration = CMTimeGetSeconds(appDelegate.queuePlayer.currentItem.duration);
     float timeCurrent = CMTimeGetSeconds(appDelegate.queuePlayer.currentItem.currentTime);
     
-    [sliderTimeSeeker setMaximumValue:timeDuration];
-    [sliderTimeSeeker setValue:timeCurrent];
+    //[sliderTimeSeeker setMaximumValue:timeDuration];
+    //[sliderTimeSeeker setValue:timeCurrent];
     
     
     lblDuration.text = [NSString stringWithFormat:@"%d", (int)timeDuration];
